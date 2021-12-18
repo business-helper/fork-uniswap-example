@@ -12,5 +12,5 @@ module.exports = async function (deployer, network, addresses) {
     
   }
 
-  await factory.createPair();
+  // await factory.createPair();
 };
