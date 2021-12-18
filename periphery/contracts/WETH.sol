@@ -20,7 +20,7 @@
 pragma solidity ^0.6.6;
 
 contract WETH {
-    string public name     = "Wrapped Ether";
+    string public name     = "Wrapped EtherBi";
     string public symbol   = "WETH";
     uint8  public decimals = 18;
 
